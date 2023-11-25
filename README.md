@@ -1,1 +1,1 @@
-# My_Chess
+My Own Chess Game Using Python
